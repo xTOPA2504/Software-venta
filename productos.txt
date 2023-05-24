@@ -1,0 +1,8 @@
+descripcion,cantidad,precio
+tornillo,12,5600
+martillo,5,7500
+pala,100,100000
+candado,89,50000
+tractor,3,100000
+bus,8,700001
+cartulina,50,15000

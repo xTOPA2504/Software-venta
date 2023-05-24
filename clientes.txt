@@ -1,0 +1,10 @@
+nombre,direccion,telefono
+luis,daigonal 1 #1-1d,3001113333
+rafael,cra 50 #35-5,300011152
+jose,cra 11 #11-11,3011111111
+juan,cra 15 # 2-520,3002221133
+javier,cra 15 #30-30,30022211144
+luiggi,cra 53 #53-53,3022211444
+kamilo,cra 50#30-30,300000000
+leonel,cra123#12-52,30212112
+luisk,cra 53#23-53,30012143241

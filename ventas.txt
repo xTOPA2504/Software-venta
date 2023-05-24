@@ -1,0 +1,6 @@
+cliente,producto,cantidad,total
+jose,martillo,5,37500
+luiggi,bus,2,140000000
+luiggi,bus,3,210000000
+kamilo,candado,10,500000
+luisk,bus,2,1400002
